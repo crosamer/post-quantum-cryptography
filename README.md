@@ -42,9 +42,9 @@ Sebagai solusi, penelitian ini menerapkan **Post-Quantum Cryptography**, khususn
 
 ---
 
-## 📦 Instalasi
+## 📦 Instalasi dan Penggunaan
 
-Pastikan Python 3 sudah terpasang, lalu install dependensi berikut:
+Pastikan Python 3 sudah terpasang, lalu install dependensi berikut dan jalankan:
 
 ```bash
 pip install pqcrypto pycryptodome
